@@ -1,6 +1,6 @@
 # COVID-19-Visualisations
 Visualizations using various time series and other datasets from Kaggle
-Visualizations :https://www.kaggle.com/saniyainamdar2k1/covid-visualisations
+Visualizations :<br>https://www.kaggle.com/saniyainamdar2k1/covid-visualisations <br>
                 https://www.kaggle.com/saniyainamdar2k1/covid-visualisations-2
        
 Datasets used: 
